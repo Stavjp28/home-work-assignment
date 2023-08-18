@@ -1,4 +1,6 @@
 # Blockchain changes the world
+![ripple logo](https://1000logos.net/wp-content/uploads/2018/05/Ripple-Logo-2012.png)
+
 ## Ripple Labs is a Blockchain/Cryptocurrency compant known for its digital currency XRP which aims to facilitate fast transcations
 * Ripple Labs
 * Company incorporated in 2012
